@@ -43,9 +43,7 @@ The features of the dataset:
 			-   jobID
 			-   companyID
 
-|  |  |
-|--|--|
-|  |  |
+
 
 	-   Ordinal:  
     
