@@ -1,11 +1,9 @@
 ﻿
 
-
-
 **1.  Project Summary**
-		This project develops a machine learning model that predicts a salary of a person based on their background information.
+		This project develops a machine learning model that predicts a salary of a person based on their background information.`
 
-  
+  ![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwixncPMzKTnAhUvFjQIHcMYBYEQjRx6BAgBEAQ&url=https://insights.dice.com/2018/01/23/salary-satisfaction-tech-jobs/&psig=AOvVaw19IVNbZ0OGFskidv8WjOFg&ust=1580242608195327)
 
 **2. The approach I will take to address this problem is:**  
     
@@ -48,16 +46,16 @@ The features of the dataset:
 	-   Ordinal:  
     
 
-				-   jobType  
-				    
-				-   Degree  
+			-   jobType  
+			    
+			-   Degree  
     
 
 -   Numerical:  
     
 
-				-   yearsExperience  
-				    
-				-   milesFromMetropolis  
-				    
-				-   salary
+			-   yearsExperience  
+			    
+			-   milesFromMetropolis  
+			    
+			-   salary
