@@ -35,26 +35,19 @@
 The features of the dataset:
 
  - Categorical:  
-   
-   
-   -   Nominal:
+	 - Nominal:
+		
+			    
+			-   Industry  
+			-   Major
+			-   jobID
+			-   companyID
 
-    
+|  |  |
+|--|--|
+|  |  |
 
-
-
-				 - Major  
-      			    
-      			-   Industry  
-      			    
-      			-   companyID
-
-    
-
-				-   jobID  
-    
-
--   Ordinal:  
+	-   Ordinal:  
     
 
 				-   jobType  
